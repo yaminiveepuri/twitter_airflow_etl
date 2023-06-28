@@ -7,9 +7,6 @@ This project demonstrates the extraction of tweets containing specific keywords,
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
